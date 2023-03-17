@@ -1,0 +1,15 @@
+C:\Users\User\Documents\cid\Cidades\bin\Debug\net6.0\Cidades.exe
+C:\Users\User\Documents\cid\Cidades\bin\Debug\net6.0\Cidades.deps.json
+C:\Users\User\Documents\cid\Cidades\bin\Debug\net6.0\Cidades.runtimeconfig.json
+C:\Users\User\Documents\cid\Cidades\bin\Debug\net6.0\Cidades.dll
+C:\Users\User\Documents\cid\Cidades\bin\Debug\net6.0\Cidades.pdb
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.csproj.AssemblyReference.cache
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.AssemblyInfoInputs.cache
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.AssemblyInfo.cs
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.dll
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\refint\Cidades.dll
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.pdb
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\Cidades.genruntimeconfig.cache
+C:\Users\User\Documents\cid\Cidades\obj\Debug\net6.0\ref\Cidades.dll
